@@ -3,6 +3,7 @@
 Once cloned, run the following commands inside the project to get up and running:
 
 ```
+mkdir Debug
 cd Debug
 cmake -DCMAKE_BUILD_TYPE=Debug ..
 ```
